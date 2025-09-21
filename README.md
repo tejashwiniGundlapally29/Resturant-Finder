@@ -10,5 +10,4 @@ The Restaurant Finder App is a native React application designed to help users d
 
 
 
-https://github.com/tejashwiniGundlapally29/Resturant-Finder/assets/156607259/b2846c35-ffe0-4502-822d-8b7704d22797
 
